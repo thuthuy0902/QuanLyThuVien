@@ -6,5 +6,6 @@ public class Main {
         System.out.print("Nhập họ tên của bạn: ");
         String hoTen = scanner.nextLine();
         System.out.println("Họ tên của bạn là: " + hoTen);
+	System.out.println("Chao mung den voi chuong trinh!");
     }
 }
